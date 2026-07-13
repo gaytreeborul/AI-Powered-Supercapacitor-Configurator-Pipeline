@@ -9,7 +9,7 @@ This clean data acts as the foundational layer for an AI-based hardware configur
 
 ## Architecture & Tech Stack
 * **Language:** Python
-* **AI / LLMs:** Claude 3.5 API, Open-Source Local LLMs (Ollama), Prompt Engineering
+* **AI / LLMs:**  Open-Source Local LLMs (Ollama), Prompt Engineering
 * **Data Processing:** strict JSON parsing, PDF text extraction
 * **Database:** MariaDB (SQL)
 * **Optimization:** Genetic Algorithms (NSGA-II)
